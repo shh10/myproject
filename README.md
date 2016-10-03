@@ -2,4 +2,4 @@
 
 Hola. 
 
-This is a test for the IAT 339 github tutorial. My, this is fun.
+So on this second branch which is on the same level as the master, Person 2 has created changes at the same time as Person 1 was editing the original master in the commit read-me.edits. See what happens next.
